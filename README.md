@@ -5,6 +5,6 @@ Products - VR 6DOF Diy
 
 Youtube: https://www.youtube.com/c/KingsCloud/playlists "VR Cloud"
 
-"Project by **Kings Cloud**"
+"By **Kings Cloud**"
 CEO: **Andrio Jonatas**
 https://www.kingscloud.com.br/
